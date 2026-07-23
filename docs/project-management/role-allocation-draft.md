@@ -61,15 +61,18 @@ Primary responsibilities:
 
 ## Shared Responsibilities
 
-All team members are expected to:
+All team members are to:
 
 - Participate in planning and design discussions
 - Contribute meaningful Git commits
 - Work through feature or documentation branches
+- Complete work on task specific branches
+- Make meaningful commits throughout the milestone
 - Submit pull requests
 - Review another team member's work
 - Track planned and actual working time
 - Test their own work before submitting it
+- Supply screenshots and explanations for any coding criteria they own
 - Participate in integration testing
 - Contribute to the demonstration
 - Submit their individual peer review
