@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                au.edu.griffith.tetris._006icttetrismilestone1/au.edu.griffith.tetris._006icttetrismilestone1.HelloApplication
+                                au.edu.griffith.tetris/au.edu.griffith.tetris._006icttetrismilestone1.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

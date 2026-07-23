@@ -1,4 +1,4 @@
-module au.edu.griffith.tetris._006icttetrismilestone1 {
+module au.edu.griffith.tetris {
     requires javafx.controls;
     requires javafx.fxml;
 
