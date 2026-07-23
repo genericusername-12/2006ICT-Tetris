@@ -8,7 +8,7 @@
 
 - Confirm that the group will develop the standard Tetris project
 - Review the main Milestone 1 requirements
-- Identify questions requiring clarification from the tutor
+- Identify questions requiring clarification
 
 ## 2. Review the Initial Project Skeleton
 
@@ -28,7 +28,7 @@ Confirm that the Maven JavaFX skeleton builds and runs.
 - Invite all members to the repository
 - Confirm each member can access the repository
 - Arrange for each member to clone and run the project
-- Obtain the lab teacher's GitHub username when available
+- Obtain the lab teacher's GitHub username
 
 ## 4. Confirm Team Roles
 
@@ -43,8 +43,6 @@ Review the proposed roles:
 Confirm:
 
 - The owner of each role
-- The formal Team Leader
-- A Deputy Integration Lead
 - Any adjustments based on availability and experience
 
 ## 5. Confirm GitHub Workflow
