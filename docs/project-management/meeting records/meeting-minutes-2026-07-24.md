@@ -65,13 +65,15 @@ Mustafa requested we look at the implementation of Tags on GitHub
 ````````
 
 Outcome:
-- research Tags for GitHub, Team lead should be the one to implement and monitor.
+- The proposed branch, pull-request and review workflow was approved.
+- Team members will avoid direct commits to `main`.
+- Mitchell will research GitHub tags and propose how they will be used.
 
 ## 6. Assign the First Tasks
 
 | Action                              | Owner           | Target date | Status      |
 |-------------------------------------|-----------------|-------------|-------------|
-| Confirm repository access           | Mitchell        | 24/07/2026  | Complete    |
+| Confirm repository access           | Mitchell        | 24/07/2026  | In Progress |
 | Draft functional requirements       | Mustafa         | 01/08/2026  | Not started |
 | Draft non-functional requirements   | Luke            | 01/08/2026  | Not started |
 | Draft use case diagram              | Thomas          | 01/08/2026  | Not started |
@@ -81,7 +83,7 @@ Outcome:
 
 ## 7. Agree on the First Checkpoint
 
-**Date or method:** [Date / group-chat update / next meeting]
+**Date or method:** Wednesday 29/07/2026 during the scheduled lab, with a group chat progress update before the lab.
 
 Before the next checkpoint, the group expects:
 
@@ -91,7 +93,8 @@ Before the next checkpoint, the group expects:
 
 ## 8. Questions and unresolved issues
 
-Are we using json for data storage e.g. highscores (Likely)
+- Determine whether JSON storage is required for high scores.
+    - Status: Deferred. Dummy high-score values are sufficient for Milestone 1 unless the team decides otherwise.
 
 
 ## Meeting Close

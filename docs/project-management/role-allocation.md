@@ -1,12 +1,12 @@
 # Proposed Role Allocation
 
-**Status:** Draft for team discussion and approval.
+**Status:** Approved by the team on 24 July 2026.
 
-This document has been prepared to support the initial team meeting. Roles and responsibilities are not final until agreed by the group.
+These roles and responsibilities were discussed and approved during the initial team meeting.
 
 ## Member 1: Team Lead and Integration Lead
 
-Primary responsibilities: Mitchell
+**Assigned member:** Mitchell
 
 - Maintain the project plan, meeting records and effort summary
 - Coordinate task allocation and internal deadlines
@@ -17,7 +17,7 @@ Primary responsibilities: Mitchell
 
 ## Member 2: Requirements and Configuration Lead
 
-Primary responsibilities: Mustafa
+**Assigned member:** Mustafa
 
 - Draft and maintain the functional requirements
 - Ensure requirements follow the precondition, event and postcondition structure
@@ -28,7 +28,7 @@ Primary responsibilities: Mustafa
 
 ## Member 3: Quality and Media Lead
 
-Primary responsibilities: Luke
+**Assigned member:** Luke
 
 - Draft and maintain the non-functional requirements
 - Cover usability, reliability, performance and supportability
@@ -39,7 +39,7 @@ Primary responsibilities: Luke
 
 ## Member 4: Game Architecture Lead
 
-Primary responsibilities: Thomas
+**Assigned member:** Thomas
 
 - Create the use case diagram
 - Lead the core object-oriented design
@@ -50,7 +50,7 @@ Primary responsibilities: Thomas
 
 ## Member 5: Game Logic and Testing Lead
 
-Primary responsibilities: Harrison
+**Assigned member:** Harrison
 
 - Create the activity diagram
 - Implement completed-row detection
@@ -64,8 +64,7 @@ Primary responsibilities: Harrison
 All team members are to:
 
 - Participate in planning and design discussions
-- Work through feature or documentation branches
-- Complete work on task specific branches
+- Complete work on task-specific feature or documentation branches
 - Make meaningful commits throughout the milestone
 - Submit pull requests
 - Review another team member's work
