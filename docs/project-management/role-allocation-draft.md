@@ -64,7 +64,6 @@ Primary responsibilities: Harrison
 All team members are to:
 
 - Participate in planning and design discussions
-- Contribute meaningful Git commits
 - Work through feature or documentation branches
 - Complete work on task specific branches
 - Make meaningful commits throughout the milestone

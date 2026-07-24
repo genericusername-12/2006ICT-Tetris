@@ -73,7 +73,6 @@ Initial tasks to allocate:
 Set target dates for:
 
 - Requirement drafts
-- UML diagram drafts
 - Screen prototypes
 - Gameplay design
 - First integrated application build

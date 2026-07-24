@@ -21,64 +21,63 @@ Present:
 - Group discussion upon milestone 1 requirement review.
 
 Outcome:
--
+- nil change.
 
 ## 2. Review the Initial Project Skeleton
 
 Discuss development environment & skeleton.
 
 Outcome:
--
+- All on board with current technology stack.
 
 ## 3. Confirm Repository Access
 
 - Collect each member's GitHub username
-- ````
-  - Harrison Clapper: 
-  - Luke Green: 
-  - Mustafa Luaibi: 
-  - Thomas Green:
-- Obtain the lab teacher's GitHub username
-- `````
-  - 
-
+````
+  - Harrison Clapper: codedrinkwater ✔
+  - Luke Greene: like-greene ✔
+  - Mustafa Luaibi: Dnira ✔
+  - Thomas Green: TommyRobbins ✔
+  - Mitchell Brown: genericusername-12 ✔
+  - lab teacher: ???
+````
 Outcome:
--
+- Still require lab teachers username
 
 ## 4. Confirm Team Roles
 
-| Member | Role                                | Main Responsibilities |
-|--------|-------------------------------------|-----------------------|
-| [Name] | Team Lead and Integration Lead      | [Summary]             |
-| [Name] | Requirements and Configuration Lead | [Summary]             |
-| [Name] | Quality and Media Lead              | [Summary]             |
-| [Name] | Game Architecture Lead              | [Summary]             |
-| [Name] | Game Logic and Testing Lead         | [Summary]             |
+| Member           | Role                                | Main Responsibilities            |
+|------------------|-------------------------------------|----------------------------------|
+| Mitchell Brown   | Team Lead and Integration Lead      | Ref to rolle allocation document |
+| Mustafa luaibi   | Requirements and Configuration Lead | Ref to rolle allocation document |
+| Luke Greene      | Quality and Media Lead              | Ref to rolle allocation document |
+| Thomas Green     | Game Architecture Lead              | Ref to rolle allocation document |
+| Harrison clapper | Game Logic and Testing Lead         | Ref to rolle allocation document |
 
 Outcome:
--
+- Ech team member chose their own allocation and is happy with it.
 
 ## 5. Confirm GitHub Workflow
 
 Discuss proposed workflow:
 ````````
-Look at the implementation of Tags on GitHub
+Mustafa requested we look at the implementation of Tags on GitHub
 ````````
 
 Outcome:
--
+- research Tags for GitHub, Team lead should be the one to implement and monitor.
 
 ## 6. Assign the First Tasks
 
-| Action                            | Owner    | Target date | Status      |
-|-----------------------------------|----------|-------------|-------------|
-| Confirm repository access         | Everyone | [Date]      | Not started |
-| Draft functional requirements     | [Name]   | [Date]      | Not started |
-| Draft non-functional requirements | [Name]   | [Date]      | Not started |
-| Draft use case diagram            | [Name]   | [Date]      | Not started |
-| Draft activity diagram            | [Name]   | [Date]      | Not started |
-| Propose core game architecture    | [Name]   | [Date]      | Not started |
-| Update project plan               | [Name]   | [Date]      | Not started |
+| Action                              | Owner           | Target date | Status      |
+|-------------------------------------|-----------------|-------------|-------------|
+| Confirm repository access           | Mitchell        | 24/07/2026  | Complete    |
+| Draft functional requirements       | Mustafa         | 01/08/2026  | Not started |
+| Draft non-functional requirements   | Luke            | 01/08/2026  | Not started |
+| Draft use case diagram              | Thomas          | 01/08/2026  | Not started |
+| Draft activity diagram              | Harrison        | 01/08/2026  | Not started |
+| Draft initial gameplay architecture | Thomas/Harrison | 01/08/2026  | Not started |
+| Update project plan                 | Mitchell        | 29/07/2026  | Not started |
 
 ## 7. Agree on the First Checkpoint
 
@@ -86,16 +85,15 @@ Outcome:
 
 Before the next checkpoint, the group expects:
 
-- All members to have cloned and run the project
+- All members to have cloned and run the project and practiced commit, push and pull requests
 - Initial requirement drafts to be available
-- UML diagrams to be drafted
 - Core application architecture to be discussed
 
 ## 8. Questions and unresolved issues
 
-Are we using json for data storage e.g. highscores [Likely]
+Are we using json for data storage e.g. highscores (Likely)
 
 
 ## Meeting Close
-** Finish time:** [Time]
+** Finish time:** 13:40
 
