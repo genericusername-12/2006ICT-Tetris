@@ -6,7 +6,7 @@ This document has been prepared to support the initial team meeting. Roles and r
 
 ## Member 1: Team Lead and Integration Lead
 
-Primary responsibilities:
+Primary responsibilities: Mitchell
 
 - Maintain the project plan, meeting records and effort summary
 - Coordinate task allocation and internal deadlines
@@ -17,7 +17,7 @@ Primary responsibilities:
 
 ## Member 2: Requirements and Configuration Lead
 
-Primary responsibilities:
+Primary responsibilities: Mustafa
 
 - Draft and maintain the functional requirements
 - Ensure requirements follow the precondition, event and postcondition structure
@@ -28,7 +28,7 @@ Primary responsibilities:
 
 ## Member 3: Quality and Media Lead
 
-Primary responsibilities:
+Primary responsibilities: Luke
 
 - Draft and maintain the non-functional requirements
 - Cover usability, reliability, performance and supportability
@@ -39,7 +39,7 @@ Primary responsibilities:
 
 ## Member 4: Game Architecture Lead
 
-Primary responsibilities:
+Primary responsibilities: Thomas
 
 - Create the use case diagram
 - Lead the core object-oriented design
@@ -50,7 +50,7 @@ Primary responsibilities:
 
 ## Member 5: Game Logic and Testing Lead
 
-Primary responsibilities:
+Primary responsibilities: Harrison
 
 - Create the activity diagram
 - Implement completed-row detection

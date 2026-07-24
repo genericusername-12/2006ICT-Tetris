@@ -61,6 +61,9 @@ Outcome:
 ## 5. Confirm GitHub Workflow
 
 Discuss proposed workflow:
+````````
+Look at the implementation of Tags on GitHub
+````````
 
 Outcome:
 -
@@ -90,6 +93,7 @@ Before the next checkpoint, the group expects:
 
 ## 8. Questions and unresolved issues
 
+Are we using json for data storage e.g. highscores [Likely]
 
 
 ## Meeting Close
